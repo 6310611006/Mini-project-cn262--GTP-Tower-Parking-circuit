@@ -1,4 +1,4 @@
-# Mini-project-cn262--GTP-Tower-Parking-circuit
+# Mini project CN262 GTP Tower Parking circuit
 
 # GTP Tower
 
@@ -6,6 +6,7 @@ GTP Tower
 
 อาคารจอดรถแบบtower 2แถว 5ชั้น
 
+# Description Circuit in project
 # Count Car
 
 ค่าinput จะมี parking และexit
